@@ -1,0 +1,27 @@
+1. Features
+Add home maintenance tasks.
+Store repair and maintenance details.
+Set task priority and due date.
+Assign service providers.
+Track estimated and actual expenses.
+Update task status.
+Search maintenance records.
+View pending, completed, and overdue tasks.
+Generate expense reports.
+
+
+2. Project structure
+Home_Maintenance_System/
+│
+├── main.py
+├── config.py
+├── storage.py
+├── utils.py
+├── maintenance_manager.py
+├── report_manager.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    └── maintenance.json
